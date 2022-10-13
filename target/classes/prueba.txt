@@ -1,0 +1,29 @@
+snap;D;[X, R, W];0
+.m2;D;[X, R, W];0
+.bashrc;F;[R, W];0
+.bash_history;F;[R, W];0
+.ssh;D;[X, R, W];0
+Escritorio;D;[X, R, W];0
+Música;D;[X, R, W];0
+.pki;D;[X, R, W];0
+Documentos;D;[X, R, W];0
+.config;D;[X, R, W];0
+.thunderbird;D;[X, R, W];0
+.cache;D;[X, R, W];0
+.gphoto;D;[X, R, W];0
+.local;D;[X, R, W];0
+IdeaProjects;D;[X, R, W];0
+Público;D;[X, R, W];0
+.gitconfig;F;[R, W];0
+Plantillas;D;[X, R, W];0
+.mozilla;D;[X, R, W];0
+Descargas;D;[X, R, W];0
+.java;D;[X, R, W];0
+Imágenes;D;[X, R, W];0
+.gnupg;D;[X, R, W];0
+Vídeos;D;[X, R, W];0
+.android;D;[X, R, W];0
+.gitkraken;D;[X, R, W];0
+.profile;F;[R, W];0
+.sudo_as_admin_successful;F;[R, W];0
+.bash_logout;F;[R, W];0
